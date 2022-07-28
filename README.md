@@ -8,7 +8,7 @@ Who is proficient in interpreting designs and building functional, responsive an
 
 * 🌍  I'm based in Lagos, Nigeria
 * ✉️  You can contact me at [Julietnnaji16@gmail.com](mailto:Julietnnaji16@gmail.com)
-* 🚀  Check out this App I built [A weather App](http://https://effortless-cascaron-bcd836.netlify.app/)
+* 🚀  Check out this App I built [A weather App](https://effortless-cascaron-bcd836.netlify.app/)
 * 🤝  I'm open to collaborating on Interesting projects
 * ⚡  When I am not coding, I am a spoken word poet who loves to read, Netflix and cook
 
