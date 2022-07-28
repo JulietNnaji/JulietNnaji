@@ -1,10 +1,10 @@
-Hi 👋 My name is Juliet Nnaji
+Hi 👋 I am Juliet Nnaji
 ====================================================================================================================================
 
 A Front-end Web Developer
 -------------------
 
-I am a Front-end developer who is proficient in interpreting designs and building functional, responsive and user-friendly websites. I am familiar with HTML, CSS, Bootstrap, Javascript, and React. Currently, I am seeking an entry-level position in Front-end Web Development so that I can put my skills to use and gain industry experience
+Who is proficient in interpreting designs and building functional, responsive and user-friendly websites. I am familiar with HTML, CSS, Bootstrap, Javascript, and React. Currently, I am seeking an entry-level position in Front-end Web Development so that I can put my skills to use and gain industry experience
 
 * 🌍  I'm based in Lagos, Nigeria
 * ✉️  You can contact me at [Julietnnaji16@gmail.com](mailto:Julietnnaji16@gmail.com)
