@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Juliet Nnaji
 ====================================================================================================================================
 
-Front-end Developer
+A Front-end Web Developer
 -------------------
 
-I am a Front-end developer who is proficient in interpreting designs and building functional, responsive and user-friendly websites. I am familiar with HTML, CSS, Bootstrap, Javascript, and React.
+I am a Front-end developer who is proficient in interpreting designs and building functional, responsive and user-friendly websites. I am familiar with HTML, CSS, Bootstrap, Javascript, and React. Currently, I am seeking an entry-level position in Front-end Web Development so that I can put my skills to use and gain industry experience
 
 * 🌍  I'm based in Lagos, Nigeria
 * ✉️  You can contact me at [Julietnnaji16@gmail.com](mailto:Julietnnaji16@gmail.com)
-* 🚀  Check out this Weather App I built [A weather App](http://https://effortless-cascaron-bcd836.netlify.app/)
+* 🚀  Check out this App I built [A weather App](http://https://effortless-cascaron-bcd836.netlify.app/)
 * 🤝  I'm open to collaborating on Interesting projects
 * ⚡  When I am not coding, I am a spoken word poet who loves to read, Netflix and cook
 
